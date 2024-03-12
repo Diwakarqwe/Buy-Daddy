@@ -1,0 +1,119 @@
+.navbar__one{
+         padding:10px;
+         border-radius: 0;
+}
+
+.hamburger__one > button > span{
+      color:black;
+      background-color: grey;
+}
+
+.hamburger__one > button{
+      border:2px solid grey;
+}
+
+
+.logo__one{
+      font-size:36px;
+      font-weight:500;
+      text-transform: uppercase;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:black;
+}
+
+.logo__one:hover{
+      color:black;
+}
+
+.logo__one > span{
+      color:orange;
+}
+
+.navbar__menu > li > a{
+      font-size:26px;
+      color:black;
+      text-align: center;
+}
+
+.navbar__menu > li > a:hover{
+      background-color: orange;
+      color:black;
+      border:none;
+      border-radius:8px;
+}
+
+.input__box > div > input{
+      margin-bottom: 10px;
+}
+
+.form-group{
+      margin-bottom: 0;
+}
+
+.modal-header{
+      background-color: orange;
+      color:black;
+}
+
+.signup__submit > button{
+      padding:8px 15px 8px 15px;
+      background-color: orange;
+      color:black;
+}
+
+.heading{
+      text-align: center;
+      letter-spacing: 2px;
+}
+
+.box__heading > div > a > h4{
+      text-align: center;
+      letter-spacing: 2px;
+}
+
+.box__heading > div > a{
+      text-transform: capitalize;
+      padding:6px 0;
+      background-color: white;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      color:black;
+}
+
+.box__heading > div > a:hover{
+      background-color: orange;
+      color:black;
+}
+
+.box__image > div > h4{
+      font-weight:bold;
+}
+
+.box__image > div > h5{
+      color:orange;
+}
+
+.box__image > div > h5 > span{ 
+      text-decoration: line-through;
+      font-size:30px;
+}
+
+.box__button > div > button{
+      background-color: orange;
+      color:black;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      text-transform: capitalize;
+}
+
+.footercontainer{
+      background-color: orange;
+      color:white;
+      padding-top:20px;
+      margin-top:30px;
+      text-align: center;
+}
+
+.footer__logo > div > a > img:hover{
+      background-color: black;
+}
